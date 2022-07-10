@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there ! 
 
-<!--
-**Moogsy/Moogsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moogs here, survivor of France's mathematics "prépa" and programming enthusiast. 
 
-Here are some ideas to get you started:
+You'll find all sorts of things here, feel free to dig through, as most of my projects will be licensed under MIT. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computer-related skillset
+
+Language | Since    | Skill level | Comment                                                 | Reference project (WIP)
+-------- | -------- | ----------- | ------------------------------------------------------- | -----------------
+Python   | 3 years  | Decent      | Lacking experience with popular libraries               | x
+C#       | < 1 year | Decent      | Same as Python                                          | x
+Rust     | 2 years  | Beginner    | Being unable to use lifetimes is the main shortcoming   | x
+LaTeX    | 2 years  | Average     | Able to use libraries                                   | x
+
+### Real life skillset
+
+- Natively speaking French, and able to converse in English. Able to understand Vietnamese, albeit, barely able to reply. Have some remnant of German.
+
