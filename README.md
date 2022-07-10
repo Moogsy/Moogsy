@@ -13,10 +13,10 @@ I chose to follow a scientific curriculum as soon as I had the choice. It's dive
 
 Name     | Since    | Skill level | Comment                              | Reference project (WIP)
 -------- | -------- | ----------- | ------------------------------------ | -----------------
-Python   | 3 years  | Decent      | Mainly used for scientific purposes  | x
+Python   | 3 years  | Proficient  | Mainly used for scientific purposes  | x
 Rust     | 2 years  | Beginner    | On hold for now                      | x
 LaTeX    | 2 years  | Average     | Able to use popular libraries        | x
-Shell    | 2 years  | Beginner    | ...                                  | x
+Shell    | 2 years  | Beginner    | Used daily                           | x
 C#       | < 1 year | Decent      | Hoping to use it with Unity          | x
 
 ### Languages
