@@ -12,9 +12,9 @@ My two main interests, programming and drawing, are linked by a will to give fre
 
 Name     | Since    | Skill level | Comment                              | Reference project (WIP)
 -------- | -------- | ----------- | ------------------------------------ | -----------------
-Python   | 3 years  | Proficient  | Mainly used for scientific purposes  | x
-Rust     | 2 years  | Beginner    | On hold for now                      | x
-LaTeX    | 2 years  | Average     | Able to use popular libraries        | x
+Python   | 3 years  | Proficient  | Mainly used for scientific purposes  | [Compilation of algorithms](https://github.com/Moogsy/python-prepa)
+Rust     | 2 years  | Beginner    | On hold for now                      | [Colorful version of the POSIX command ls](https://github.com/Moogsy/rainbow_ls)
+LaTeX    | 2 years  | Average     | Able to use popular libraries        | [Collection of mathematics exercices](https://github.com/Moogsy/Prepa/tree/master/MPSI/math)
 Shell    | 2 years  | Beginner    | Used daily                           | x
 C#       | < 1 year | Decent      | Hoping to use it with Unity          | x
 
