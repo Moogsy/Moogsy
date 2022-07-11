@@ -7,7 +7,6 @@ You'll find all sorts of things here, feel free to dig through, as most of my pr
 ### Interests 
 
 My two main interests, programming and drawing, are linked by a will to give free rein to my imagination. 
-I chose to follow a scientific curriculum as soon as I had the choice. It's diversity allowed me to discover a particular fondness for both mathematics, mainly linear algebra, and philosphy, as it let us think unconstrained. 
 
 ### Computer-related skillset
 
