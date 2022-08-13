@@ -17,6 +17,7 @@ Rust     | 2 years  | Beginner    | On hold for now                      | [Colo
 LaTeX    | 2 years  | Average     | Able to use popular libraries        | [Collection of mathematics exercices](https://github.com/Moogsy/Prepa/tree/master/MPSI/math)
 Shell    | 2 years  | Beginner    | Used daily                           | x
 C#       | < 1 year | Decent      | Hoping to use it with Unity          | x
+C        | < 1 year | Decentg     | Required by school                   | x
 
 ### Languages
 
