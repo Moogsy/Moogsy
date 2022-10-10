@@ -21,9 +21,10 @@ C         | < 1 year | Decent      | Required by school                   | x
 VimScript | < 1 year | Beginner    | Fun                                  | x
 ### Languages
 
-Name       | Skill (oral) | Skill (written)   | Comment                                          | Certificate
----------  | ------------ | ----------------- | ------------------------------------------------ | -------------
-French     | Proficient   | Proficient        | Native language                                  | x 
-English    | Decent       | Decent            | Practicing daily, can write better than I speak  | x
-Vietnamese | Remnants     | Nonexistant       | Able to understand common vocabulary             | x
-German     | Remnants     | Remnants          | Long-gone memories from high school              | x
+Name       | Skill (oral) | Skill (written)   | Comment                                          
+---------  | ------------ | ----------------- | ------------------------------------------------ 
+French     | Proficient   | Proficient        | Native language                                  
+Japanese   | Beginner     | Beginner          | School mandated                                  
+English    | Decent       | Decent            | Practicing daily, can write better than I speak  
+Vietnamese | Remnants     | Nonexistant       | Able to understand common vocabulary             
+German     | Remnants     | Remnants          | Long-gone memories from high school              
